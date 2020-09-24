@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## Run the following steps after Cloning from Master Branch
+## 1-> `cd bobble_app`
+## 2-> `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
